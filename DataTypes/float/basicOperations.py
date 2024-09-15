@@ -1,0 +1,1 @@
+print(float(input("Enter the first float value:")) + float(input("Enter the second float value: ")))

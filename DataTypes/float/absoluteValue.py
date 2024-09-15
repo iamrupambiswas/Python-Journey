@@ -1,0 +1,1 @@
+print(abs(float(input("Enter the floating point number: "))))
